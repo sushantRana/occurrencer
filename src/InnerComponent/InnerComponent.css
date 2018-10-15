@@ -1,0 +1,7 @@
+tr {
+  display: flex;
+}
+.tableTD {
+  align-items: flex-start;
+  text-align: left;
+}
